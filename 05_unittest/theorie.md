@@ -144,6 +144,15 @@ OK
 
 ---
 
+### 🎮 Lernkarten & Wiederholung
+- 📦 [Alle Lernkarten LS 8.5 – Quizlet Ordner](https://quizlet.com/user/A__J_35/folders/ls-85-softwaretests?i=20ii9u&x=1xqt)
+- 🃏 [Quizlet – Baustein 05: unittest](https://quizlet.com/de/karteikarten/05-unittest-1179988357?i=20ii9u&x=1jqt)
+
+> Nutze die Lernkarten zur Wiederholung nach dem Baustein –
+> ideal für Spaced Repetition und IHK-Vorbereitung!
+
+---
+
 ## Was kommt als nächstes?
 
 In **Baustein 06 – pytest** wirst du dasselbe erreichen – aber einfacher und mächtiger. pytest ist der Standard im Berufsalltag: weniger Schreibarbeit, bessere Fehlermeldungen und ein flexibles Fixture-System. Du wirst deine unittest-Tests direkt nach pytest migrieren.

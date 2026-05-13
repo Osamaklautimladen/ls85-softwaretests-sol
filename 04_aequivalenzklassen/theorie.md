@@ -121,6 +121,15 @@ Jede Zeile testet **eine** Klasse oder einen Grenzwert – so entsteht lückenlo
 
 ---
 
+### 🎮 Lernkarten & Wiederholung
+- 📦 [Alle Lernkarten LS 8.5 – Quizlet Ordner](https://quizlet.com/user/A__J_35/folders/ls-85-softwaretests?i=20ii9u&x=1xqt)
+- 🃏 [Quizlet – Baustein 04: Äquivalenzklassen](https://quizlet.com/de/karteikarten/04-aquivalenzklassen-1179961980?i=20ii9u&x=1jqt)
+
+> Nutze die Lernkarten zur Wiederholung nach dem Baustein –
+> ideal für Spaced Repetition und IHK-Vorbereitung!
+
+---
+
 ## Was kommt als nächstes?
 
 In **Baustein 05 – Python unittest** lernst du, wie du deine Testfälle nicht mehr mit `print()` prüfst, sondern als echte automatisierte Tests mit dem eingebauten Python-Framework `unittest` schreibst. Die Äquivalenzklassen aus diesem Baustein wirst du dabei direkt einsetzen.

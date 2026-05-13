@@ -115,6 +115,15 @@ Weitere Tests für Grenzwerte (-273.15 Absolutnullpunkt, negative Werte) anschli
 
 ---
 
+### 🎮 Lernkarten & Wiederholung
+- 📦 [Alle Lernkarten LS 8.5 – Quizlet Ordner](https://quizlet.com/user/A__J_35/folders/ls-85-softwaretests?i=20ii9u&x=1xqt)
+- 🃏 [Quizlet – Baustein 07: TDD](https://quizlet.com/de/1179994835/07-test-driven-development-flash-cards/?i=20ii9u&x=1jqt)
+
+> Nutze die Lernkarten zur Wiederholung nach dem Baustein –
+> ideal für Spaced Repetition und IHK-Vorbereitung!
+
+---
+
 ## Was kommt als nächstes?
 
 In **Baustein 08 – Testdokumentation** lernst du, wie du deine Tests und deren Ergebnisse professionell dokumentierst. Testplan, Testprotokoll und Testbericht – das sind die Dokumente, die du im Berufsalltag und in der IHK-Prüfung benötigst.

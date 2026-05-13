@@ -139,6 +139,15 @@ Sechs Fälle aus Baustein 04 in einer einzigen parametrisierten Funktion – kei
 
 ---
 
+### 🎮 Lernkarten & Wiederholung
+- 📦 [Alle Lernkarten LS 8.5 – Quizlet Ordner](https://quizlet.com/user/A__J_35/folders/ls-85-softwaretests?i=20ii9u&x=1xqt)
+- 🃏 [Quizlet – Baustein 06: pytest](https://quizlet.com/de/1179991858/06-pytest-flash-cards/?i=20ii9u&x=1jqt)
+
+> Nutze die Lernkarten zur Wiederholung nach dem Baustein –
+> ideal für Spaced Repetition und IHK-Vorbereitung!
+
+---
+
 ## Was kommt als nächstes?
 
 In **Baustein 07 – Test-Driven Development** drehst du den Ablauf um: Du schreibst **zuerst den Test**, dann erst den Code. Der Red-Green-Refactor-Zyklus wird dir zeigen, wie TDD die Codequalität verbessert und gleichzeitig als Entwurfswerkzeug dient.
