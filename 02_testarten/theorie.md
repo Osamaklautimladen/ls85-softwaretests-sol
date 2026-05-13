@@ -124,6 +124,15 @@ Der Integrationstest ist aufwändiger, weil er echte Objektinteraktion zwischen 
 
 ---
 
+### 🎮 Lernkarten & Wiederholung
+- 📦 [Alle Lernkarten LS 8.5 – Quizlet Ordner](https://quizlet.com/user/A__J_35/folders/ls-85-softwaretests?i=20ii9u&x=1xqt)
+- 🃏 [Quizlet – Baustein 02: Testarten](https://quizlet.com/de/karteikarten/02-testarten-1179873473?i=20ii9u&x=1jqt)
+
+> Nutze die Lernkarten zur Wiederholung nach dem Baustein – 
+> ideal für Spaced Repetition und IHK-Vorbereitung!
+
+---
+
 ## Was kommt als nächstes?
 
 In **Baustein 03 – Testmethoden** lernst du, wie man Testfälle systematisch entwirft – ohne und mit Kenntnis des Quellcodes. Du wirst den Unterschied zwischen **Black-Box-** und **White-Box-Tests** verstehen und erste eigene Testfälle nach diesen Methoden ableiten.
