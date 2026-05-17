@@ -17,24 +17,7 @@
 
 TDD läuft in drei streng getrennten Phasen ab:
 
-```
-   🔴 RED
-   Test schreiben, der fehlschlaegt
-   (Die Funktion existiert noch nicht – das ist beabsichtigt!)
-         |
-         v
-   🟢 GREEN
-   Minimalen Code schreiben, der den Test gruen macht
-   (Nicht mehr als noetig – auch „hässlicher" Code ist erlaubt)
-         |
-         v
-   🔵 REFACTOR
-   Code verbessern: Struktur, Namen, Duplikate beseitigen
-   (Alle Tests muessen weiterhin gruen bleiben!)
-         |
-         v
-   🔴 RED  →  Naechster Test  →  Zyklus wiederholt sich
-```
+![TDD Zyklus](../assets/07_tdd_zyklus.png)
 
 **Baby Steps:** Immer nur einen Test auf einmal. Kein „ich implementiere schon mal alles durch". Die kleinen Schritte erzwingen Nachdenken über die Schnittstelle, bevor der Code geschrieben wird.
 

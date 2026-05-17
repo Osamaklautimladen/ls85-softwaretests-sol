@@ -9,14 +9,7 @@
 
 In **Baustein 05** hast du mit `unittest` gearbeitet – Pythons eingebautem Testframework. `pytest` ist nicht eingebaut, aber der **de-facto Standard im Berufsalltag**, weil es deutlich weniger Schreibarbeit erfordert und bessere Fehlermeldungen liefert.
 
-| Merkmal | unittest | pytest |
-|---------|----------|--------|
-| Installation | eingebaut | `pip install pytest` |
-| Teststruktur | Klassen (Pflicht) | Funktionen reichen aus |
-| Assertion | `self.assertEqual(a, b)` | `assert a == b` |
-| Fehlermeldungen | kurz | detailliert (zeigt Variablenwerte) |
-| Testvorbereitung | `setUp / tearDown` | `@pytest.fixture` |
-| Parametrisierung | komplex | `@pytest.mark.parametrize` |
+![pytest Übersicht](../assets/06_pytest_uebersicht.png)
 
 ---
 

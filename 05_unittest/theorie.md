@@ -25,17 +25,7 @@ Das `-v` (verbose) zeigt jeden Testnamen einzeln – hilfreich beim Debuggen.
 
 Jede Testklasse erbt von `unittest.TestCase`. Alle Methoden, die mit `test_` beginnen, werden automatisch als Tests erkannt und ausgeführt.
 
-```
-┌───────────────────────────────────────────┐
-│  class TestMeineKlasse(unittest.TestCase) │
-│                                           │
-│    def setUp(self):    ← vor jedem Test   │
-│    def tearDown(self): ← nach jedem Test  │
-│                                           │
-│    def test_fall_1(self):  ← Test 1       │
-│    def test_fall_2(self):  ← Test 2       │
-└───────────────────────────────────────────┘
-```
+![unittest Aufbau](../assets/05_unittest_aufbau.png)
 
 ---
 
