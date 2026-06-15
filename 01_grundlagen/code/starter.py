@@ -62,15 +62,17 @@ if __name__ == "__main__":
 #
 # | Maßnahme                            | Statisch | Dynamisch |
 # |-------------------------------------|----------|-----------|
-# | Code Review durch einen Kollegen    | TODO     | TODO      |
-# | Programm mit Testdaten ausführen    | TODO     | TODO      |
-# | Syntaxprüfung durch den Editor      | TODO     | TODO      |
-# | Walkthroughs im Team                | TODO     | TODO      |
-# | Unit-Tests laufen lassen            | TODO     | TODO      |
-# | Checklisten für Codestruktur        | TODO     | TODO      |
+# | Code Review durch einen Kollegen    |    x     |           |
+# | Programm mit Testdaten ausführen    |          |     x     |
+# | Syntaxprüfung durch den Editor      |    x     |           |
+# | Walkthroughs im Team                |          |     x     |
+# | Unit-Tests laufen lassen            |          |     x     |
+# | Checklisten für Codestruktur        |    x     |           |
 #
 # Warum reicht statisches Testen allein nicht aus?
 # TODO: Deine Erklärung hier (2 Sätze)
+# Statisches Testen allein reicht nicht aus, da der Code nicht ausgeführt wird. Eher oberflächliche, strukturelle und semantische Fehler werden hier behandelt.
+# Dynamisches Testen hingegen beschäftigt sich mit der Ausführung des Codes, welches die konkrete Funktionalität auf einer oder mehreren Ebenen testet.
 
 
 # ============================================================
