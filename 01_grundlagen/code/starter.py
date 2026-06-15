@@ -81,11 +81,12 @@ if __name__ == "__main__":
 
 # Prinzip 2 – Vollständiges Testen ist unmöglich:
 # Beispiel aus dem Berufsalltag:
-# TODO: Deine Antwort hier
+# Die Qualitätssicherung kann intern zu 100% abgeschlossen sein und dennoch fallen bei der Auslieferung Fehler auf.
+# Gründe: Unterschiedliche oder komplexe Infrastruktur, kundenspezifische Anpassungen sind auf älteren Stand und machen Probleme, etc.
 
 # Prinzip 4 – Defect Clustering:
 # Beispiel aus dem Berufsalltag:
-# TODO: Deine Antwort hier
+# 80% der Fehler verstecken sich in 20% des Codes. Beim Defect Clustering werden Fehler identifiziert und klassifiziert um diese anschließend entsprechend zu behandeln.
 
 # Welches Prinzip überrascht dich? Warum?
-# TODO: Deine Antwort hier
+# Keine Fehler != gute Software, da erfahrene Entwickler von Grund auf auch richtig coden können.
