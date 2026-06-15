@@ -79,7 +79,7 @@ if __name__ == "__main__":
 
 # | Beschreibung                                           | Teststufe |
 # |--------------------------------------------------------|-----------|
-# | Testet einzelne Funktionen oder Methoden isoliert      | TODO      |
-# | Prüft das Zusammenspiel mehrerer Module                | TODO      |
-# | Testet das gesamte System gegen die Anforderungen      | TODO      |
-# | Auftraggeber prüft, ob seine Anforderungen erfüllt sind| TODO      |
+# | Testet einzelne Funktionen oder Methoden isoliert      |Unit       |
+# | Prüft das Zusammenspiel mehrerer Module                |Integration|
+# | Testet das gesamte System gegen die Anforderungen      |System     |
+# | Auftraggeber prüft, ob seine Anforderungen erfüllt sind|Abnahme    |
