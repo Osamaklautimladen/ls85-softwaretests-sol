@@ -48,6 +48,7 @@ dann das Gesamtprodukt, und schließlich der Kunde nimmt ab.
 Das **V-Modell** visualisiert diesen Zusammenhang zwischen Entwicklungs- und Teststufen.
 
 ---
+# TODO: Deine Antwort hier
 
 ## Aufgabe 1 – Die vier Teststufen 🟢
 
@@ -76,12 +77,12 @@ Ein Team entwickelt einen einfachen Online-Webshop mit folgenden Komponenten:
 
 **a)** Nenne je ein Testbeispiel für jede Teststufe in diesem Webshop.
 
-| Teststufe | Konkretes Testbeispiel |
-|-----------|----------------------|
-| Unit-Test | |
-| Integrationstest | |
-| Systemtest | |
-| Abnahmetest | |
+| Teststufe | Konkretes Testbeispiel                                |
+|-----------|-------------------------------------------------------|
+| Unit-Test | prüft Berechnung rabattierter Preis                   |
+| Integrationstest | prüft ob Preisberechnung auf warenkorb zugreifen kann |
+| Systemtest | Prüfung des Bestellvorgangs durch Mitarbeiter         |
+| Abnahmetest | Prüfung aller definierten Grundanforderungen          |
 
 **b)** In `code/starter.py` findest du die Funktion `berechne_gesamtpreis()`.
 Schreibe einen einfachen manuellen Test (mit `print()`), der folgende Fälle prüft:
